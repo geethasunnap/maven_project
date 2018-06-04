@@ -1,5 +1,0 @@
-*.txt
-target/
-*.php
-!two.php
-
